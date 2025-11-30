@@ -95,11 +95,13 @@ Focused on delivering clean, accurate, and business-centric analytics solutions.
 Your feedback and support help improve future analytics projects.
 
 
+
 # 📸 Charts Preview
 ![img alt](https://github.com/Daniyal07420/Vedio-Games-Sales-Analysis/blob/main/Region%20wise%20total%20sales%20comparison.png?raw=true)
 ![img alt](https://github.com/Daniyal07420/Vedio-Games-Sales-Analysis/blob/main/Regional%20Sales%20Distribution.png?raw=true)
 ![img alt](https://github.com/Daniyal07420/Vedio-Games-Sales-Analysis/blob/main/Sales%20Distribution%20by%20genre.png?raw=true)
 ![img alt](https://github.com/Daniyal07420/Vedio-Games-Sales-Analysis/blob/main/Top%2010%20Genre%20in%20EU.png?raw=true)
+![img alt](https://github.com/Daniyal07420/Vedio-Games-Sales-Analysis/blob/main/Correlation%20matrix%20of%20sales%20data.png?raw=true)
 ![img alt](https://github.com/Daniyal07420/Vedio-Games-Sales-Analysis/blob/main/Top%2010%20Genre%20in%20JP.png?raw=true)
 ![img alt](https://github.com/Daniyal07420/Vedio-Games-Sales-Analysis/blob/main/Top%2010%20Genre%20in%20NA.png?raw=true)
 ![img alt](https://github.com/Daniyal07420/Vedio-Games-Sales-Analysis/blob/main/Top%2010%20Publishers%20by%20Global%20Sales.png?raw=true)
@@ -108,3 +110,15 @@ Your feedback and support help improve future analytics projects.
 
 # 📸 Dashboard Preview
 ![img alt](https://github.com/Daniyal07420/Vedio-Games-Sales-Analysis/blob/main/Vedio%20Game%20Sales%20Analysis%20Dashboard.png?raw=true)
+
+
+
+## 📬 Contact Information
+
+If you would like to connect, collaborate, or discuss analytics projects, feel free to reach out:
+
+- **LinkedIn:** https://www.linkedin.com/in/rana-daniyal-720a43379/ 
+- **Email:** daniyalinfo.com@gmail.com
+- **Phone/WhatsApp:** +92-3215414483
+
+I’m open to freelance work, data analytics projects, dashboard development, and collaborations.
